@@ -1,7 +1,7 @@
 # AI-Recruiter
 AI Recruiter to automate recruiting process and short list the candidate with help of AI and LLM. 
 
-### libaries
+### libraries
 - Langchain
 - Pandas
 - Streamlit
